@@ -403,6 +403,7 @@ article .icon {
 .contact-info-upper-container {
   display: flex;
   justify-content: center;
+  gap: 1rem;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
